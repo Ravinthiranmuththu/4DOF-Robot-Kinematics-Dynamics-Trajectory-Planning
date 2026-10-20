@@ -4,10 +4,10 @@ MATLAB coursework project exploring a four-revolute-joint (RRRR) manipulator, sy
 
 ## Contents
 
-- `MATLAB/assignment04.m` — original assignment computations, including Jacobian-based velocity analysis, symbolic Euler–Lagrange modelling, and cubic trajectory generation.
-- `MATLAB/visualizeRRRRobot.m` — 3D link and coordinate-frame plotting helper. A misleading comment was corrected; no algorithmic changes were made.
-- `Report/assignment_report.pdf` — submitted assignment report.
-- `Original/assignment_worksheet.mw` — original worksheet, preserved for reference (may require compatible software).
+- `assignment04.m` — original assignment computations, including Jacobian-based velocity analysis, symbolic Euler–Lagrange modelling, and cubic trajectory generation.
+- `visualizeRRRRobot.m` — 3D link and coordinate-frame plotting helper. A misleading comment was corrected; no algorithmic changes were made.
+- `assignment_report.pdf` — submitted assignment report.
+- `assignment_worksheet.mw` — original worksheet, preserved for reference (may require compatible software).
 
 ## Highlights
 
